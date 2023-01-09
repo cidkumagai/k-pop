@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  background-color: #8c8cb9;
+}
+
+/* Use the global variable to overwrite font-family */
+:root:root {
+  --adm-font-family: "Noto Sans JP";
+}
